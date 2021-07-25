@@ -34,6 +34,7 @@ const article = ({ article }) => {
             : null }
             <p>Publisher: {article.publisher}</p>
             <p>Author: {article.author}</p>
+            <p>Topic: {article.educationalrole}</p>
             <div className={styles.audio}>
               <Cc data={article} />
             </div>
