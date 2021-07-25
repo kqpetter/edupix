@@ -1,0 +1,292 @@
+feedbacks/amazing work.WAV:        RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/amazing.WAV:             RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/fantastic answer.wav:    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/fantastic work 1.WAV:    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/fantastic work.WAV:      RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/fantastic1.wav:          RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/fantastic2.wav:          RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/fantastic3.wav:          RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/fantastic4.wav:          RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/fantastic5.wav:          RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/fantastic6.wav:          RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/good answer.WAV:         RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/good job.WAV:            RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/good work.WAV:           RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/good.wav:                RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/great match.wav:         RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/great.wav:               RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/great2.wav:              RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/great3.wav:              RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/great4.wav:              RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/well done 2.WAV:         RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/well done 3.wav:         RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+feedbacks/well done.wav:           RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/a.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ade.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/ake.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/ale.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/am.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ame.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/an.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ane.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/ap.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ape.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/at.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/b.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/bl.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/br.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/c.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ch.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/cl.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/cr.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/d.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/e.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/eak.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/ean.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/eat.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/ed.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ee.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/eel.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/eep.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/eet.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/eg.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/en.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/et.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/f 2.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/f.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/f2.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/f3.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/fl.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/fr.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/g.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/gl.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/gr.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/h.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/i.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ice.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/ide.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/if.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ike.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/in.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ine.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/ip.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ipe.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/is.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ite.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/j.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/k.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/l.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/m.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/n.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/o.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/obe.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/ode.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/oke.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/ome.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/op.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ot.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ox.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/p 2.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/p.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/p3.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/pl.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/pr.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/qu.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/r.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/s.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/sh.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/shr.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/sp.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/squ.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/st.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/str.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/sw.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/t.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/t2.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/tr.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/u.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ub.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ue.wav:                    Audio file with ID3 version 2.3.0, contains:MPEG ADTS, layer III, v1, 128 kbps, 48 kHz, Monaural
+letters/ug.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ule.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/ume.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/un.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/une.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 48000 Hz
+letters/use.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/ut.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/ute.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/v.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/vowels-final.wav:          RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/w.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/wh.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+letters/wr.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/x.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/y.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+letters/z.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+other/are_you_sure.wav:            RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+other/bonus_treasure.wav:          RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+other/im_angry.wav:                RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+other/im_bored.wav:                RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+other/im_sad.wav:                  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+other/lets write some letters.wav: RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+other/new friend.wav:              RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+other/playing_together.wav:        RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+other/select_monster.wav:          RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+other/select_player.WAV:           RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+other/thank you better.wav:        RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+other/thanks_happy.wav:            RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+other/try_letter.wav:              RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+other/watch_grow.wav:              RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/ag.wav:                      RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/as.wav:                      RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/bat.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/blade.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/bleak.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/blue.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/box.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/brake.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/bug 1.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/bug.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/bun 1.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/bun.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/bus.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/but.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/can.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/can1.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/cap.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/cap1.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/cat 1.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/cat.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/chide.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/clean.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/club.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/clue.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/crane.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/cub 1.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/cub.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/cup.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/cut.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/cute.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/den.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/dog.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/egg.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/fab.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/fan.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/fig.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/fin.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/fin1.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/flute.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/fox 1.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/fox.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/frame.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/fume.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/gag.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/geg.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/get.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/globe.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/glue.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/grape.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/gun.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/hat.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/hen.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/home.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/hop 1.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/hop.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/hot.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/hut.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/ib.wav:                      RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/if.wav:                      RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/ig.wav:                      RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/im.wav:                      RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/is.wav:                      RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/it.wav:                      RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/jet.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/jug.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/kid.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/lag.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/leg.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/lip 1.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/lip.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/man.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/map 1.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/map.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/mat.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/mat1.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/mop.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/mule.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/mum.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/muse.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/nag.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/nap.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/neg.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/net.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/net1.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/nip.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/nut.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/nut1.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/pam.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/pan.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/pan1.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/pane.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/pat.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/pig.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/pin 1.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/pin.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/pit.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/plane.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/pleat.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/pop.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/pot.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/pox.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/price.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/prune.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/quip.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/quo.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/ram.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/rat.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/ride.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/rode.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/rub.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/rug.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/rug1.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/run.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/rut.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/sheep.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/shine.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/sip.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/spike.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/spine.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/spoke.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/squeak.wav:                  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/stale.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/strobe.wav:                  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/strode.wav:                  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/sun.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/sweet.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/swipe.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/tam.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/tan.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/tap.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/ted.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/ten.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/top.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/tree.wav:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/tub.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/tub1.WAV:                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/tug.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/um.wav:                      RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/us.wav:                      RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/van.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/wed.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/wet.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/wheat.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/wheel.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/whine.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/write.wav:                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 24 bit, mono 48000 Hz
+words/yum.wav:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+words/zip.WAV:                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+FilesWithPaths.txt:                empty
+feedbacks:                         directory
+letters:                           directory
+other:                             directory
+words:                             directory

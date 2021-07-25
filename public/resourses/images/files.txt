@@ -1,0 +1,366 @@
+./math//.DS_Store
+./math//earlymath/grid-bananas-20/bananas-11-20.png
+./math//earlymath/grid-bananas-20/bananas-2-20.png
+./math//earlymath/grid-bananas-20/bananas-13-20.png
+./math//earlymath/grid-bananas-20/bananas-6-20.png
+./math//earlymath/grid-bananas-20/bananas-17-20.png
+./math//earlymath/grid-bananas-20/bananas-19-20.png
+./math//earlymath/grid-bananas-20/bananas-15-20.png
+./math//earlymath/grid-bananas-20/bananas-4-20.png
+./math//earlymath/grid-bananas-20/bananas-8-20.png
+./math//earlymath/grid-bananas-20/bananas-1-20.png
+./math//earlymath/grid-bananas-20/bananas-10-20.png
+./math//earlymath/grid-bananas-20/bananas-12-20.png
+./math//earlymath/grid-bananas-20/bananas-3-20.png
+./math//earlymath/grid-bananas-20/bananas-16-20.png
+./math//earlymath/grid-bananas-20/bananas-20-20.png
+./math//earlymath/grid-bananas-20/bananas-7-20.png
+./math//earlymath/grid-bananas-20/bananas-5-20.png
+./math//earlymath/grid-bananas-20/bananas-9-20.png
+./math//earlymath/grid-bananas-20/bananas-18-20.png
+./math//earlymath/grid-bananas-20/bananas-14-20.png
+./math//earlymath/grid-bananas-10/bananas-5-10.png
+./math//earlymath/grid-bananas-10/bananas-9-10.png
+./math//earlymath/grid-bananas-10/bananas-7-10.png
+./math//earlymath/grid-bananas-10/bananas-3-10.png
+./math//earlymath/grid-bananas-10/bananas-10-10.png
+./math//earlymath/grid-bananas-10/bananas-1-10.png
+./math//earlymath/grid-bananas-10/bananas-4-10.png
+./math//earlymath/grid-bananas-10/bananas-8-10.png
+./math//earlymath/grid-bananas-10/bananas-6-10.png
+./math//earlymath/grid-bananas-10/bananas-2-10.png
+./math//earlymath/grid-bullets-5/bullets-5-5.png
+./math//earlymath/grid-bullets-5/bullets-3-5.png
+./math//earlymath/grid-bullets-5/bullets-1-5.png
+./math//earlymath/grid-bullets-5/bullets-4-5.png
+./math//earlymath/grid-bullets-5/bullets-2-5.png
+./math//earlymath/numbers/fiigures/6 figure.png
+./math//earlymath/numbers/fiigures/3 figure.png
+./math//earlymath/numbers/fiigures/9 figure.png
+./math//earlymath/numbers/fiigures/4 figure.png
+./math//earlymath/numbers/fiigures/1 figure.png
+./math//earlymath/numbers/fiigures/2 figure.png
+./math//earlymath/numbers/fiigures/7 figure.png
+./math//earlymath/numbers/fiigures/0 figure.png
+./math//earlymath/numbers/fiigures/8 figure.png
+./math//earlymath/numbers/fiigures/5 figure.png
+./math//earlymath/numbers/6 figure.png
+./math//earlymath/numbers/.DS_Store
+./math//earlymath/numbers/3 figure.png
+./math//earlymath/numbers/8.png
+./math//earlymath/numbers/9.png
+./math//earlymath/numbers/9 figure.png
+./math//earlymath/numbers/4 figure.png
+./math//earlymath/numbers/1 figure.png
+./math//earlymath/numbers/2 figure.png
+./math//earlymath/numbers/7 figure.png
+./math//earlymath/numbers/4.png
+./math//earlymath/numbers/0 figure.png
+./math//earlymath/numbers/5.png
+./math//earlymath/numbers/7.png
+./math//earlymath/numbers/6.png
+./math//earlymath/numbers/2.png
+./math//earlymath/numbers/8 figure.png
+./math//earlymath/numbers/3.png
+./math//earlymath/numbers/5 figure.png
+./math//earlymath/numbers/1.png
+./math//earlymath/numbers/0.png
+./math//earlymath/.DS_Store
+./math//earlymath/_-10-#/10-4.png
+./math//earlymath/_-10-#/10-5.png
+./math//earlymath/_-10-#/10-7.png
+./math//earlymath/_-10-#/10-6.png
+./math//earlymath/_-10-#/10-2.png
+./math//earlymath/_-10-#/10-3.png
+./math//earlymath/_-10-#/10-1.png
+./math//earlymath/_-10-#/10-10.png
+./math//earlymath/_-10-#/10-8.png
+./math//earlymath/_-10-#/10-9.png
+./math//earlymath/Compare number of objects 1/8.png
+./math//earlymath/Compare number of objects 1/9.png
+./math//earlymath/Compare number of objects 1/14.png
+./math//earlymath/Compare number of objects 1/15.png
+./math//earlymath/Compare number of objects 1/17.png
+./math//earlymath/Compare number of objects 1/16.png
+./math//earlymath/Compare number of objects 1/12.png
+./math//earlymath/Compare number of objects 1/13.png
+./math//earlymath/Compare number of objects 1/11.png
+./math//earlymath/Compare number of objects 1/10.png
+./math//earlymath/Compare number of objects 1/20.png
+./math//earlymath/Compare number of objects 1/18.png
+./math//earlymath/Compare number of objects 1/19.png
+./math//earlymath/Compare number of objects 1/4.png
+./math//earlymath/Compare number of objects 1/5.png
+./math//earlymath/Compare number of objects 1/7.png
+./math//earlymath/Compare number of objects 1/6.png
+./math//earlymath/Compare number of objects 1/2.png
+./math//earlymath/Compare number of objects 1/3.png
+./math//earlymath/Compare number of objects 1/1.png
+./math//earlymath/Compare number of objects 1/0.png
+./math//earlymath/grid-bananas-5/bananas-5-5.png
+./math//earlymath/grid-bananas-5/bananas-3-5.png
+./math//earlymath/grid-bananas-5/bananas-1-5.png
+./math//earlymath/grid-bananas-5/bananas-4-5.png
+./math//earlymath/grid-bananas-5/bananas-2-5.png
+./math//earlymath/grid-birds-5/birds-4-5.png
+./math//earlymath/grid-birds-5/birds-2-5.png
+./math//earlymath/grid-birds-5/birds-5-5.png
+./math//earlymath/grid-birds-5/birds-3-5.png
+./math//earlymath/grid-birds-5/birds-1-5.png
+./math//earlymath/#-5-_/4-5.png
+./math//earlymath/#-5-_/2-5.png
+./math//earlymath/#-5-_/5-5.png
+./math//earlymath/#-5-_/3-5.png
+./math//earlymath/#-5-_/1-5.png
+./math//earlymath/Subtraction word problems within 10/8.png
+./math//earlymath/Subtraction word problems within 10/9.png
+./math//earlymath/Subtraction word problems within 10/12.png
+./math//earlymath/Subtraction word problems within 10/11.png
+./math//earlymath/Subtraction word problems within 10/10.png
+./math//earlymath/Subtraction word problems within 10/4.png
+./math//earlymath/Subtraction word problems within 10/5.png
+./math//earlymath/Subtraction word problems within 10/7.png
+./math//earlymath/Subtraction word problems within 10/6.png
+./math//earlymath/Subtraction word problems within 10/2.png
+./math//earlymath/Subtraction word problems within 10/3.png
+./math//earlymath/Subtraction word problems within 10/1.png
+./math//earlymath/wrong order/boat.png
+./math//earlymath/wrong order/carrot.png
+./math//earlymath/wrong order/cactus.png
+./math//earlymath/wrong order/orange.png
+./math//earlymath/wrong order/star.png
+./math//earlymath/numbers-100/numbers-100-22.png
+./math//earlymath/numbers-100/numbers-100-36.png
+./math//earlymath/numbers-100/numbers-100-8.png
+./math//earlymath/numbers-100/numbers-100-81.png
+./math//earlymath/numbers-100/numbers-100-79.png
+./math//earlymath/numbers-100/numbers-100-93.png
+./math//earlymath/numbers-100/numbers-100-50.png
+./math//earlymath/numbers-100/numbers-100.png
+./math//earlymath/numbers-100/numbers-100-48.png
+./math//earlymath/numbers-100/numbers-100-62.png
+./math//earlymath/numbers-100/numbers-100-76.png
+./math//earlymath/Compare up to 10/8.png
+./math//earlymath/Compare up to 10/9.png
+./math//earlymath/Compare up to 10/14.png
+./math//earlymath/Compare up to 10/15.png
+./math//earlymath/Compare up to 10/17.png
+./math//earlymath/Compare up to 10/16.png
+./math//earlymath/Compare up to 10/12.png
+./math//earlymath/Compare up to 10/13.png
+./math//earlymath/Compare up to 10/11.png
+./math//earlymath/Compare up to 10/10.png
+./math//earlymath/Compare up to 10/20.png
+./math//earlymath/Compare up to 10/18.png
+./math//earlymath/Compare up to 10/19.png
+./math//earlymath/Compare up to 10/4.png
+./math//earlymath/Compare up to 10/5.png
+./math//earlymath/Compare up to 10/7.png
+./math//earlymath/Compare up to 10/6.png
+./math//earlymath/Compare up to 10/2.png
+./math//earlymath/Compare up to 10/3.png
+./math//earlymath/Compare up to 10/1.png
+./math//earlymath/Addition word problems within 10/8.png
+./math//earlymath/Addition word problems within 10/9.png
+./math//earlymath/Addition word problems within 10/14.png
+./math//earlymath/Addition word problems within 10/15.png
+./math//earlymath/Addition word problems within 10/16.png
+./math//earlymath/Addition word problems within 10/12.png
+./math//earlymath/Addition word problems within 10/13.png
+./math//earlymath/Addition word problems within 10/11.png
+./math//earlymath/Addition word problems within 10/10.png
+./math//earlymath/Addition word problems within 10/4.png
+./math//earlymath/Addition word problems within 10/5.png
+./math//earlymath/Addition word problems within 10/7.png
+./math//earlymath/Addition word problems within 10/6.png
+./math//earlymath/Addition word problems within 10/2.png
+./math//earlymath/Addition word problems within 10/3.png
+./math//earlymath/Addition word problems within 10/1.png
+./math//earlymath/Compare 10 to numbers/8.png
+./math//earlymath/Compare 10 to numbers/9.png
+./math//earlymath/Compare 10 to numbers/10.png
+./math//earlymath/Compare 10 to numbers/4.png
+./math//earlymath/Compare 10 to numbers/5.png
+./math//earlymath/Compare 10 to numbers/7.png
+./math//earlymath/Compare 10 to numbers/6.png
+./math//earlymath/Compare 10 to numbers/2.png
+./math//earlymath/Compare 10 to numbers/3.png
+./math//earlymath/Compare 10 to numbers/1.png
+./math//earlymath/numbers-120/numbers-120-109.png
+./math//earlymath/numbers-120/numbers-120.png
+./math//earlymath/numbers-120/numbers-120-117.png
+./math//earlymath/numbers-120/numbers-120-102.png
+./math//earlymath/numbers-120/numbers-120-114.png
+./math//earlymath/numbers-120/numbers-120-106.png
+./math//earlymath/missing-tens/numbers-50.png
+./math//earlymath/missing-tens/numbers-90.png
+./math//earlymath/missing-tens/numbers-40.png
+./math//earlymath/missing-tens/numbers-70.png
+./math//earlymath/missing-tens/numbers-60.png
+./math//earlymath/#-10-_/8-10.png
+./math//earlymath/#-10-_/4-10.png
+./math//earlymath/#-10-_/6-10.png
+./math//earlymath/#-10-_/2-10.png
+./math//earlymath/#-10-_/9-10.png
+./math//earlymath/#-10-_/5-10.png
+./math//earlymath/#-10-_/10-10.png
+./math//earlymath/#-10-_/7-10.png
+./math//earlymath/#-10-_/3-10.png
+./math//earlymath/#-10-_/1-10.png
+./math//earlymath/Compare number of objects 2/8.png
+./math//earlymath/Compare number of objects 2/9.png
+./math//earlymath/Compare number of objects 2/28.png
+./math//earlymath/Compare number of objects 2/29.png
+./math//earlymath/Compare number of objects 2/12.png
+./math//earlymath/Compare number of objects 2/13.png
+./math//earlymath/Compare number of objects 2/11.png
+./math//earlymath/Compare number of objects 2/10.png
+./math//earlymath/Compare number of objects 2/21.png
+./math//earlymath/Compare number of objects 2/22.png
+./math//earlymath/Compare number of objects 2/23.png
+./math//earlymath/Compare number of objects 2/27.png
+./math//earlymath/Compare number of objects 2/26.png
+./math//earlymath/Compare number of objects 2/30.png
+./math//earlymath/Compare number of objects 2/24.png
+./math//earlymath/Compare number of objects 2/25.png
+./math//earlymath/Compare number of objects 2/31.png
+./math//earlymath/Compare number of objects 2/4.png
+./math//earlymath/Compare number of objects 2/5.png
+./math//earlymath/Compare number of objects 2/7.png
+./math//earlymath/Compare number of objects 2/6.png
+./math//earlymath/Compare number of objects 2/2.png
+./math//earlymath/Compare number of objects 2/3.png
+./math//earlymath/Compare number of objects 2/1.png
+./math//earlymath/grid-bullets-120/bullets-70-120.png
+./math//earlymath/grid-bullets-120/bullets-60-120.png
+./math//earlymath/grid-bullets-120/bullets-100-120.png
+./math//earlymath/grid-bullets-120/bullets-110-120.png
+./math//earlymath/grid-bullets-120/bullets-10-120.png
+./math//earlymath/grid-bullets-120/bullets-120-120.png
+./math//earlymath/grid-bullets-120/bullets-40-120.png
+./math//earlymath/grid-bullets-120/bullets-50-120.png
+./math//earlymath/grid-bullets-120/bullets-90-120.png
+./math//earlymath/grid-bullets-120/bullets-80-120.png
+./math//earlymath/grid-bullets-120/bullets-30-120.png
+./math//earlymath/grid-bullets-120/bullets-20-120.png
+./math//earlymath/grid-apples-10/apples-5-10.png
+./math//earlymath/grid-apples-10/apples-9-10.png
+./math//earlymath/grid-apples-10/apples-7-10.png
+./math//earlymath/grid-apples-10/apples-3-10.png
+./math//earlymath/grid-apples-10/apples-1-10.png
+./math//earlymath/grid-apples-10/apples-4-10.png
+./math//earlymath/grid-apples-10/apples-8-10.png
+./math//earlymath/grid-apples-10/apples-6-10.png
+./math//earlymath/grid-apples-10/apples-10-10.png
+./math//earlymath/grid-apples-10/apples-2-10.png
+./math//earlymath/Compare numbers to 10/8.png
+./math//earlymath/Compare numbers to 10/9.png
+./math//earlymath/Compare numbers to 10/11.png
+./math//earlymath/Compare numbers to 10/10.png
+./math//earlymath/Compare numbers to 10/4.png
+./math//earlymath/Compare numbers to 10/5.png
+./math//earlymath/Compare numbers to 10/7.png
+./math//earlymath/Compare numbers to 10/6.png
+./math//earlymath/Compare numbers to 10/2.png
+./math//earlymath/Compare numbers to 10/3.png
+./math//earlymath/Compare numbers to 10/1.png
+./math//earlymath/grid-bullets-20/bullets-6-20.png
+./math//earlymath/grid-bullets-20/bullets-17-20.png
+./math//earlymath/grid-bullets-20/bullets-19-20.png
+./math//earlymath/grid-bullets-20/bullets-15-20.png
+./math//earlymath/grid-bullets-20/bullets-4-20.png
+./math//earlymath/grid-bullets-20/bullets-8-20.png
+./math//earlymath/grid-bullets-20/bullets-11-20.png
+./math//earlymath/grid-bullets-20/bullets-2-20.png
+./math//earlymath/grid-bullets-20/bullets-13-20.png
+./math//earlymath/grid-bullets-20/bullets-16-20.png
+./math//earlymath/grid-bullets-20/bullets-20-20.png
+./math//earlymath/grid-bullets-20/bullets-7-20.png
+./math//earlymath/grid-bullets-20/bullets-5-20.png
+./math//earlymath/grid-bullets-20/bullets-9-20.png
+./math//earlymath/grid-bullets-20/bullets-18-20.png
+./math//earlymath/grid-bullets-20/bullets-14-20.png
+./math//earlymath/grid-bullets-20/bullets-1-20.png
+./math//earlymath/grid-bullets-20/bullets-10-20.png
+./math//earlymath/grid-bullets-20/bullets-12-20.png
+./math//earlymath/grid-bullets-20/bullets-3-20.png
+./math//earlymath/grid-apples-20/apples-16-20.png
+./math//earlymath/grid-apples-20/apples-20-20.png
+./math//earlymath/grid-apples-20/apples-14-20.png
+./math//earlymath/grid-apples-20/apples-18-20.png
+./math//earlymath/grid-apples-20/apples-2-20.png
+./math//earlymath/grid-apples-20/apples-10-20.png
+./math//earlymath/grid-apples-20/apples-6-20.png
+./math//earlymath/grid-apples-20/apples-4-20.png
+./math//earlymath/grid-apples-20/apples-8-20.png
+./math//earlymath/grid-apples-20/apples-12-20.png
+./math//earlymath/grid-apples-20/apples-17-20.png
+./math//earlymath/grid-apples-20/apples-1-20.png
+./math//earlymath/grid-apples-20/apples-3-20.png
+./math//earlymath/grid-apples-20/apples-15-20.png
+./math//earlymath/grid-apples-20/apples-19-20.png
+./math//earlymath/grid-apples-20/apples-7-20.png
+./math//earlymath/grid-apples-20/apples-11-20.png
+./math//earlymath/grid-apples-20/apples-13-20.png
+./math//earlymath/grid-apples-20/apples-5-20.png
+./math//earlymath/grid-apples-20/apples-9-20.png
+./math//earlymath/grid-bullets-10/bullets-3-10.png
+./math//earlymath/grid-bullets-10/bullets-10-10.png
+./math//earlymath/grid-bullets-10/bullets-1-10.png
+./math//earlymath/grid-bullets-10/bullets-5-10.png
+./math//earlymath/grid-bullets-10/bullets-9-10.png
+./math//earlymath/grid-bullets-10/bullets-7-10.png
+./math//earlymath/grid-bullets-10/bullets-2-10.png
+./math//earlymath/grid-bullets-10/bullets-4-10.png
+./math//earlymath/grid-bullets-10/bullets-8-10.png
+./math//earlymath/grid-bullets-10/bullets-6-10.png
+./math//earlymath/grid-apples-5/.DS_Store
+./math//earlymath/grid-apples-5/apples-2-5.png
+./math//earlymath/grid-apples-5/apples-4-5.png
+./math//earlymath/grid-apples-5/apples-3-5.png
+./math//earlymath/grid-apples-5/apples-1-5.png
+./math//earlymath/grid-apples-5/apples-5-5.png
+./math//earlymath/grid-birds-20/birds-12-20.png
+./math//earlymath/grid-birds-20/.DS_Store
+./math//earlymath/grid-birds-20/birds-10-20.png
+./math//earlymath/grid-birds-20/birds-2-20.png
+./math//earlymath/grid-birds-20/birds-14-20.png
+./math//earlymath/grid-birds-20/birds-18-20.png
+./math//earlymath/grid-birds-20/birds-6-20.png
+./math//earlymath/grid-birds-20/birds-4-20.png
+./math//earlymath/grid-birds-20/birds-8-20.png
+./math//earlymath/grid-birds-20/birds-20-20.png
+./math//earlymath/grid-birds-20/birds-16-20.png
+./math//earlymath/grid-birds-20/birds-13-20.png
+./math//earlymath/grid-birds-20/birds-1-20.png
+./math//earlymath/grid-birds-20/birds-3-20.png
+./math//earlymath/grid-birds-20/birds-11-20.png
+./math//earlymath/grid-birds-20/birds-7-20.png
+./math//earlymath/grid-birds-20/birds-15-20.png
+./math//earlymath/grid-birds-20/birds-19-20.png
+./math//earlymath/grid-birds-20/birds-17-20.png
+./math//earlymath/grid-birds-20/birds-5-20.png
+./math//earlymath/grid-birds-20/birds-9-20.png
+./math//earlymath/_-5-#/5-5.png
+./math//earlymath/_-5-#/5-4.png
+./math//earlymath/_-5-#/5-3.png
+./math//earlymath/_-5-#/5-2.png
+./math//earlymath/_-5-#/5-1.png
+./math//earlymath/missing-number-1-10/heart.png
+./math//earlymath/missing-number-1-10/cheese.png
+./math//earlymath/missing-number-1-10/vase.png
+./math//earlymath/grid-birds-10/birds-5-10.png
+./math//earlymath/grid-birds-10/birds-9-10.png
+./math//earlymath/grid-birds-10/birds-7-10.png
+./math//earlymath/grid-birds-10/birds-3-10.png
+./math//earlymath/grid-birds-10/birds-1-10.png
+./math//earlymath/grid-birds-10/birds-4-10.png
+./math//earlymath/grid-birds-10/birds-8-10.png
+./math//earlymath/grid-birds-10/birds-6-10.png
+./math//earlymath/grid-birds-10/birds-2-10.png
+./math//earlymath/grid-birds-10/birds-10-10.png
+./math//earlymath/missing-number - 1-5/flower 4.png
+./math//earlymath/missing-number - 1-5/flower 3.png
+./math//earlymath/missing-number - 1-5/flower 2.png
+./math//earlymath/missing-number - 1-5/flower 1.png
+./math//listOfFiles.list
