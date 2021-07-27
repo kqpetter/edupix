@@ -31,6 +31,8 @@
     border: 1px solid transparent;
     transition: all ease 0.33s;
     border: 1px solid transparent;
+    color: #0070f3;
+    border-color: #0070f3;
 }
 
 .footer {

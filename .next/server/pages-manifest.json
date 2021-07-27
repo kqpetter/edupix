@@ -5,6 +5,8 @@
   "/api/articles": "pages/api/articles.js",
   "/api/hello": "pages/api/hello.js",
   "/api/language/[id]": "pages/api/language/[id].js",
+  "/api/topics/[id]": "pages/api/topics/[id].js",
+  "/api/topics": "pages/api/topics.js",
   "/article/[id]": "pages/article/[id].js",
   "/": "pages/index.html",
   "/search": "pages/search.html",
