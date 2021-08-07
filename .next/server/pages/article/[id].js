@@ -4,7 +4,19 @@ exports.id = 446;
 exports.ids = [446];
 exports.modules = {
 
-/***/ 9930:
+/***/ 1130:
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "f": function() { return /* binding */ server; }
+/* harmony export */ });
+const dev = false;
+const server = dev ? 'http://localhost:3000' : 'https://edupix.io';
+
+/***/ }),
+
+/***/ 5765:
 /***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -26,9 +38,8 @@ var next_link = __webpack_require__(1664);
 var next_image = __webpack_require__(5675);
 ;// CONCATENATED MODULE: external "next/router"
 var router_namespaceObject = require("next/router");;
-;// CONCATENATED MODULE: ./config/index.js
-const dev = false;
-const server = dev ? 'http://localhost:3000' : 'https://edupix.io';
+// EXTERNAL MODULE: ./config/index.js
+var config = __webpack_require__(1130);
 // EXTERNAL MODULE: ./styles/Resource.module.css
 var Resource_module = __webpack_require__(506);
 var Resource_module_default = /*#__PURE__*/__webpack_require__.n(Resource_module);
@@ -168,7 +179,7 @@ const article = ({
 };
 
 const getStaticProps = async context => {
-  const res = await fetch(`${server}/api/articles/${context.params.id}`);
+  const res = await fetch(`${config/* server */.f}/api/articles/${context.params.id}`);
   const article = await res.json();
   return {
     props: {
@@ -177,7 +188,7 @@ const getStaticProps = async context => {
   };
 };
 const getStaticPaths = async () => {
-  const res = await fetch(`${server}/api/articles`);
+  const res = await fetch(`${config/* server */.f}/api/articles`);
   const articles = await res.json();
   const ids = articles.map(article => article.id);
   const paths = ids.map(id => ({
@@ -293,7 +304,7 @@ module.exports = require("react/jsx-runtime");;
 var __webpack_require__ = require("../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-var __webpack_exports__ = __webpack_require__.X(0, [821,675,664], function() { return __webpack_exec__(9930); });
+var __webpack_exports__ = __webpack_require__.X(0, [374,664,675], function() { return __webpack_exec__(5765); });
 module.exports = __webpack_exports__;
 
 })();
