@@ -1,15 +1,3 @@
-.imagewrapp {
-    height: 320px;
-    width: 100%;
-    background-color: #F8F8FB;
-    border-bottom: 1px solid #E5E5E5;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    height: 240px;
-    overflow: hidden;
-}
-
 .card {
     margin: 1rem;
     flex-basis: 45%;
@@ -51,10 +39,6 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-}
-
-.audio {
-    padding: 1rem 0;
 }
 
 .container {

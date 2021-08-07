@@ -68,9 +68,8 @@ const TopicList = ({
   return /*#__PURE__*/jsx_runtime_.jsx("div", {
     className: (Article_module_default()).grid,
     children: topics.map(topic => /*#__PURE__*/jsx_runtime_.jsx(topics_TopicItem, {
-      topic: topic,
-      id: topic.id
-    }))
+      topic: topic
+    }, topic.id))
   });
 };
 
@@ -150,8 +149,6 @@ export const getStaticProps = async (context) => {
 
 // Exports
 module.exports = {
-	"wrapper": "Article_wrapper__1aIJg",
-	"imagewrapp": "Article_imagewrapp__1hWQW",
 	"grid": "Article_grid__2WPYc",
 	"card": "Article_card__2DgoW",
 	"logo": "Article_logo__p8cMG"
@@ -165,12 +162,10 @@ module.exports = {
 
 // Exports
 module.exports = {
-	"imagewrapp": "Resource_imagewrapp__KDNJP",
 	"card": "Resource_card__RHRQO",
 	"logo": "Resource_logo__zgNIZ",
 	"grid": "Resource_grid__uQTLv",
 	"main": "Resource_main__2w-sv",
-	"audio": "Resource_audio__1F_PI",
 	"container": "Resource_container__BQoIn"
 };
 

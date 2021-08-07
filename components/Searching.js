@@ -34,7 +34,8 @@ const Search = () => {
                 images();          
             } else {
                 
-                children            }
+                setResults([]);
+            }
         };
         debounce(search(value))
     }

@@ -1,6 +1,6 @@
 {
   "/_app": "pages/_app.js",
-  "/about": "pages/about.js",
+  "/about": "pages/about.html",
   "/api/articles/[id]": "pages/api/articles/[id].js",
   "/api/articles": "pages/api/articles.js",
   "/api/hello": "pages/api/hello.js",
@@ -11,11 +11,12 @@
   "/api/topics": "pages/api/topics.js",
   "/api/topics/toplevel": "pages/api/topics/toplevel.js",
   "/article/[id]": "pages/article/[id].js",
-  "/": "pages/index.js",
-  "/search": "pages/search.js",
+  "/": "pages/index.html",
+  "/search": "pages/search.html",
   "/topic/[id]": "pages/topic/[id].js",
   "/toplevel": "pages/toplevel.js",
   "/toplevel/topics/[id]": "pages/toplevel/topics/[id].js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js"
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
 }

@@ -73,7 +73,7 @@ const ArticleList = ({
     className: (Article_module_default()).grid,
     children: articles.map(article => /*#__PURE__*/jsx_runtime_.jsx(article_ArticleItem, {
       article: article
-    }))
+    }, article.id))
   });
 };
 
@@ -123,8 +123,6 @@ const getServerSideProps = async context => {
 
 // Exports
 module.exports = {
-	"wrapper": "Article_wrapper__1aIJg",
-	"imagewrapp": "Article_imagewrapp__1hWQW",
 	"grid": "Article_grid__2WPYc",
 	"card": "Article_card__2DgoW",
 	"logo": "Article_logo__p8cMG"
@@ -138,12 +136,10 @@ module.exports = {
 
 // Exports
 module.exports = {
-	"imagewrapp": "Resource_imagewrapp__KDNJP",
 	"card": "Resource_card__RHRQO",
 	"logo": "Resource_logo__zgNIZ",
 	"grid": "Resource_grid__uQTLv",
 	"main": "Resource_main__2w-sv",
-	"audio": "Resource_audio__1F_PI",
 	"container": "Resource_container__BQoIn"
 };
 

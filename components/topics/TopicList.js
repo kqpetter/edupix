@@ -5,7 +5,7 @@ const TopicList = ({ topics }) => {
   return (
     <div className={articleStyles.grid}>
       {topics.map((topic) => (
-        <TopicItem topic={topic} id={topic.id} />
+        <TopicItem topic={topic} key={topic.id} />
       ))}
     </div>
   )
