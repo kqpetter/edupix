@@ -2,9 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js",
-  "/toplevel": "pages/toplevel.js",
-  "/": "pages/index.js",
-  "/api/topics/children/[id]": "pages/api/topics/children/[id].js",
-  "/api/topics/toplevel": "pages/api/topics/toplevel.js"
+  "/toplevel": "pages/toplevel.js"
 }
