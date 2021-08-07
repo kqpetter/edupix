@@ -1,22 +1,10 @@
 {
   "/_app": "pages/_app.js",
-  "/about": "pages/about.html",
-  "/api/articles/[id]": "pages/api/articles/[id].js",
-  "/api/articles": "pages/api/articles.js",
-  "/api/hello": "pages/api/hello.js",
-  "/api/language/[id]": "pages/api/language/[id].js",
-  "/api/topics/[id]": "pages/api/topics/[id].js",
-  "/api/topics/articles/[id]": "pages/api/topics/articles/[id].js",
-  "/api/topics/children/[id]": "pages/api/topics/children/[id].js",
-  "/api/topics": "pages/api/topics.js",
-  "/api/topics/toplevel": "pages/api/topics/toplevel.js",
-  "/article/[id]": "pages/article/[id].js",
-  "/": "pages/index.html",
-  "/search": "pages/search.html",
-  "/topic/[id]": "pages/topic/[id].js",
-  "/toplevel": "pages/toplevel.js",
-  "/toplevel/topics/[id]": "pages/toplevel/topics/[id].js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
+  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js",
+  "/toplevel": "pages/toplevel.js",
+  "/": "pages/index.js",
+  "/api/topics/children/[id]": "pages/api/topics/children/[id].js",
+  "/api/topics/toplevel": "pages/api/topics/toplevel.js"
 }
