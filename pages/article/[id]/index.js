@@ -45,6 +45,7 @@ const article = ({ article }) => {
     </>
   )
 }
+
 /*
 export const getStaticProps = async (context) => {
   const res = await fetch(`${server}/api/articles/${context.params.id}`)
@@ -70,8 +71,8 @@ export const getStaticPaths = async () => {
     paths,
     fallback: false,
   }
-}*/
-
+}
+*/
  export const getServerSideProps = async (context) => {
   const res = await fetch(`${server}/api/articles/${context.params.id}`)
 
