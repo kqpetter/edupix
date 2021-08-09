@@ -21,7 +21,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://edupix.io/api" className={styles.card}>
+          <a href="https://edupix.io/aboutapi" className={styles.card}>
             <h2>Test our API &rarr;</h2>
             <p>We are still working to develop the first version of our APIs, but if you can´t wait to dive in, you can test one of our sample API endpoints.</p>
           </a>
