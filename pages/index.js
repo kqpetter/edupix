@@ -21,12 +21,12 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://edupix.appspot.com/api/articles" className={styles.card}>
+          <a href="https://edupix.io/api/articles" className={styles.card}>
             <h2>Test our API &rarr;</h2>
             <p>We are still working on it but if you are curious you can test our API.</p>
           </a>
 
-          <a href="https://edupix.appspot.com/about" className={styles.card}>
+          <a href="https://edupix.io/about" className={styles.card}>
             <h2>Learn more about eduPix&rarr;</h2>
             <p>Learn about eduPix.io and our project!</p>
           </a>

@@ -16,10 +16,23 @@ export default function About() {
         <h1 className={styles.title}>
           Welcome to <a href="https://edupix.io">eduPix.io</a>
         </h1>
-
         <p className={styles.description}>
-          The eduPix collection will contain images, audio, illustrations relevant for OER development and will be launched in November 2021.
+         The service will be launched in beta November 10, 2021.        
         </p>
+        
+          <a className={styles.card}>
+            <h2>The eduPix mission </h2>
+            <p>eduPix is a currated collection of images, audio, illustrations and video that are context relevant for OER development. 
+              In the initial version of eduPix we will focus on content for early greades.</p>
+          </a>
+
+          <a className={styles.card}>
+            <h2>Who are we </h2>
+            <p>The eduPix platform is developed with funding from the Norad(Norwegian Agency for Development) working in collaboration with a large group of content partners. All resources are released under a Creative Commons license.</p>
+        </a>
+
+         
+       
 
         
       </main>
