@@ -1,15 +1,12 @@
 
 import Link from 'next/link'
 import Image from "next/image"
-import { useRouter } from 'next/router'
 import { server } from '../../../config'
 import styles from '../../../styles/Resource.module.css'
 import Cc from '../../../components/icons/CcLicense'
 
 
 const article = ({ article }) => {
-  // const router = useRouter()
-  // const { id } = router.query
 
   return (
     <>
