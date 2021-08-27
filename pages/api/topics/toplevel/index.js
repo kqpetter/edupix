@@ -8,6 +8,6 @@ export default function handler(req, res) {
     } else {
         res
             .status(404)
-            .json({ message: `No top end topix the id of ${id} is not found` })
+            .json({ message: `No top topix the id of ${id} is not found` })
     }
 }
