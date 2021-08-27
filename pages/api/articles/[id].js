@@ -8,6 +8,6 @@ export default function handler({ query: { id } }, res) {
     } else {
         res
             .status(404)
-            .json({ message: `Content with the id of ${id} is not found` })
+            .json({ message: `Content with id of ${id} is not found` })
     }
 }
